@@ -1,0 +1,12 @@
+{
+  "name": "lambda-braintree-webhook-handler",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "braintree": "^2.4.0",
+    "query-string": "^5.1.0"
+  }
+}
